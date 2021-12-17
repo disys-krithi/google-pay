@@ -66,8 +66,8 @@ krithi.Enter_your_Pin(3564,3564)
 
 
         
-googlepay=[{"name":"abishek","gpaynum":7397266887,"type":"personal","transaction":"regular"},                       #DICTIONARY INSIDE LIST
-           {"name":"aarthi","gpaynum":7305341565,"type":"personal","transaction":"regular"},
+googlepay=[{"name":"ananya","gpaynum":7397266887,"type":"personal","transaction":"regular"},                       #DICTIONARY INSIDE LIST
+           {"name":"arjun","gpaynum":7305341565,"type":"personal","transaction":"regular"},
            {"name":"abinaya","gpaynum":6381347949,"type":"personal","transaction":"rare"},
            {"name":"afrin","gpaynum":7358355054,"type":"personal","transaction":"never"},
            {"name":"ajay","gpaynum":7200636126,"type":"personal","transaction":"rare"},
